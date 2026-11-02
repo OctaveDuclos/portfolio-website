@@ -126,11 +126,35 @@
     },
     {
       "title": "Atmospheric measurement models · NASA JPL",
-      "text": "Reconstructed and validated experimental models from fragmented spreadsheets and investigated the relationship between humidity and the refractive index of air."
+      "text": "Reconstructed and validated experimental models from fragmented spreadsheets and investigated the relationship between humidity and the refractive index of air.",
+      "images": [
+        {
+          "src": "./assets/projects/jpl-resonator-workspace.webp",
+          "alt": "Frequency resonator analysis spreadsheet with processed experimental measurements and diagnostic plots.",
+          "caption": "Experimental measurements, reconstructed calculations, and diagnostic plots."
+        },
+        {
+          "src": "./assets/projects/jpl-resonator-apparatus.webp",
+          "alt": "Laboratory resonator apparatus with annotations identifying the pressure vessel, copper folds, and resonator.",
+          "caption": "Experimental apparatus: pressure vessel, copper folds, and resonator."
+        },
+        {
+          "src": "./assets/projects/jpl-physics-thesis.webp",
+          "alt": "Pomona College senior physics thesis cover titled Index of Refraction of Air at Various Humidity Levels, by Octave Duclos, advised by Dr. Richard Mawhorter.",
+          "caption": "Senior physics thesis: Index of Refraction of Air at Various Humidity Levels."
+        }
+      ]
     },
     {
       "title": "Changing extreme rainfall risk · Academic project",
-      "text": "Used Bayesian inference in SciPy to update rainfall probability distributions and visualized changes in extreme storm risk with Matplotlib."
+      "text": "Used Bayesian inference in SciPy to update rainfall probability distributions and visualized changes in extreme storm risk with Matplotlib.",
+      "images": [
+        {
+          "src": "./assets/projects/nyc-storm-probability.webp",
+          "alt": "Four plots comparing prior and posterior distributions for the probability of more than 7.2 inches of rainfall in 24 hours in New York City, updated using successive historical periods.",
+          "caption": "Bayesian updates to NYC extreme rainfall probability across successive historical periods."
+        }
+      ]
     }
   ],
   "experience": [
