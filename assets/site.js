@@ -13,7 +13,7 @@ async function init(){
  const page=document.body.dataset.page;main.innerHTML=({home,portfolio,resume}[page]||home)(d);
  document.querySelector(`[data-nav="${page}"]`)?.setAttribute('aria-current','page');
  document.getElementById('year').textContent=new Date().getFullYear();
- document.getElementById('contact').innerHTML=`<a href="mailto:${esc(d.email)}">${esc(d.email)}</a><a href="${esc(d.linkedin)}">LinkedIn ↗</a><a href="tel:${esc(d.phone.replace(/[^+\d]/g,''))}">${esc(d.phone)}</a>`;
+ document.getElementById('contact').innerHTML=`<a href="mailto:${esc(d.email)}">${esc(d.email)}</a><a href="tel:${esc(d.phone.replace(/[^+\d]/g,''))}">${esc(d.phone)}</a><a href="${esc(d.linkedin)}">LinkedIn ↗</a>`;
  const img=document.getElementById('portrait-image');if(img){const show=()=>{img.hidden=false;document.getElementById('portrait-placeholder').hidden=true;};img.addEventListener('load',show);if(img.complete&&img.naturalWidth)show();}
  document.querySelectorAll('[data-filter]').forEach(button=>button.addEventListener('click',()=>{document.querySelectorAll('[data-filter]').forEach(b=>{b.classList.toggle('active',b===button);b.setAttribute('aria-pressed',String(b===button));});let count=0;document.querySelectorAll('[data-category]').forEach(project=>{project.hidden=button.dataset.filter!=='all'&&project.dataset.category!==button.dataset.filter;if(!project.hidden)count++;});document.getElementById('filter-count').textContent=`${count} projects`;}));
  if(location.hash){const id=decodeURIComponent(location.hash.slice(1));document.getElementById(id)?.scrollIntoView();}
