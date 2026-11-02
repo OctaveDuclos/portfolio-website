@@ -6,7 +6,7 @@
   "email": "octave.ga.duclos@gmail.com",
   "phone": "(909) 480-9870",
   "linkedin": "https://www.linkedin.com/in/octaveduclos/",
-  "resumeUrl": null,
+  "resumeUrl": "./assets/Octave_Duclos_Resume.pdf",
   "projects": [
     {
       "id": "ppa-model",
