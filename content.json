@@ -70,8 +70,8 @@
       ],
       "images": [
         {
-          "src": "./assets/projects/solar-portfolio-forecast.png",
-          "alt": "Anonymized portfolio forecast comparing client electricity load, existing renewable generation, and proposed community solar generation over time.",
+          "src": "./assets/projects/solar-portfolio-forecast-hq.webp",
+          "alt": "Portfolio forecast comparing client electricity load, existing renewable generation, and proposed community solar generation over time.",
           "caption": "Portfolio load and generation forecast, including contract expirations, REC needs, and community solar scenarios. Original portfolio excerpt; assumptions reflect the project at the time."
         }
       ]
@@ -113,12 +113,12 @@
       "text": "Analyzed large neural datasets and built weighted connectivity matrices using Python and database queries to help researchers investigate dominant pathways.",
       "images": [
         {
-          "src": "./assets/projects/neural-connectivity.png",
+          "src": "./assets/projects/neural-connectivity-hq.webp",
           "alt": "Network diagram showing connections between Delta6d neurons and candidate dopaminergic neurons.",
           "caption": "Connectivity analysis: mapping candidate dopaminergic connections with Delta6d neurons."
         },
         {
-          "src": "./assets/projects/neural-morphology.png",
+          "src": "./assets/projects/neural-morphology-hq.webp",
           "alt": "Three views of reconstructed Delta6 neuron subtypes connected to candidate neurons.",
           "caption": "Morphology analysis: three views of the reconstructed neuronal subtypes."
         }
@@ -126,14 +126,7 @@
     },
     {
       "title": "Atmospheric measurement models · NASA JPL",
-      "text": "Reconstructed and validated experimental models from fragmented spreadsheets and investigated the relationship between humidity and the refractive index of air.",
-      "images": [
-        {
-          "src": "./assets/projects/jpl-resonator-analysis.png",
-          "alt": "Composite of frequency resonator experimental spreadsheets, processed datasets, and diagnostic plots.",
-          "caption": "Experimental analysis workspace: reconstructed spreadsheets and diagnostic plots from the JPL resonator project."
-        }
-      ]
+      "text": "Reconstructed and validated experimental models from fragmented spreadsheets and investigated the relationship between humidity and the refractive index of air."
     },
     {
       "title": "Changing extreme rainfall risk · Academic project",
