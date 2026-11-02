@@ -70,7 +70,7 @@
       ],
       "images": [
         {
-          "src": "./assets/projects/solar-portfolio-forecast-hq.webp",
+          "src": "./assets/projects/community-solar-load.webp",
           "alt": "Portfolio forecast comparing client electricity load, existing renewable generation, and proposed community solar generation over time.",
           "caption": "Portfolio load and generation forecast, including contract expirations, REC needs, and community solar scenarios. Original portfolio excerpt; assumptions reflect the project at the time."
         }
@@ -129,9 +129,9 @@
       "text": "Reconstructed and validated experimental models from fragmented spreadsheets and investigated the relationship between humidity and the refractive index of air.",
       "images": [
         {
-          "src": "./assets/projects/jpl-resonator-workspace.webp",
-          "alt": "Frequency resonator analysis spreadsheet with processed experimental measurements and diagnostic plots.",
-          "caption": "Experimental measurements, reconstructed calculations, and diagnostic plots."
+          "src": "./assets/projects/jpl-physics-thesis.webp",
+          "alt": "Pomona College senior physics thesis cover titled Index of Refraction of Air at Various Humidity Levels, by Octave Duclos, advised by Dr. Richard Mawhorter.",
+          "caption": "Senior physics thesis: Index of Refraction of Air at Various Humidity Levels."
         },
         {
           "src": "./assets/projects/jpl-resonator-apparatus.webp?v=complete",
@@ -139,9 +139,9 @@
           "caption": "Experimental apparatus: pressure vessel, copper folds, and resonator."
         },
         {
-          "src": "./assets/projects/jpl-physics-thesis.webp",
-          "alt": "Pomona College senior physics thesis cover titled Index of Refraction of Air at Various Humidity Levels, by Octave Duclos, advised by Dr. Richard Mawhorter.",
-          "caption": "Senior physics thesis: Index of Refraction of Air at Various Humidity Levels."
+          "src": "./assets/projects/jpl-resonator-workspace.webp",
+          "alt": "Frequency resonator analysis spreadsheet with processed experimental measurements and diagnostic plots.",
+          "caption": "Experimental measurements, reconstructed calculations, and diagnostic plots."
         }
       ]
     },
