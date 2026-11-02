@@ -9,7 +9,7 @@ function resume(d){return `<section class="page-intro resume-intro"><div><p clas
 async function init(){
  const main=document.getElementById('main');
  try{
- const response=await fetch('./content.json'); if(!response.ok)throw new Error('Content unavailable'); const d=await response.json();
+ const response=await fetch('./content.json', {cache: 'no-cache'}); if(!response.ok)throw new Error('Content unavailable'); const d=await response.json();
  const page=document.body.dataset.page;main.innerHTML=({home,portfolio,resume}[page]||home)(d);
  document.querySelector(`[data-nav="${page}"]`)?.setAttribute('aria-current','page');
  document.getElementById('year').textContent=new Date().getFullYear();
