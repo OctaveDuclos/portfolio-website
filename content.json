@@ -1,0 +1,169 @@
+{
+  "name": "Octave Duclos",
+  "headline": "Renewable energy analytics. Smarter decisions.",
+  "intro": "I turn complex energy data into clear procurement decisions, reliable portfolio insights, and practical tools. My work connects renewable energy economics with AI and automation to help teams move faster and make better decisions.",
+  "about": "I’m a Senior Analyst in Climate & Sustainability at ERM Coho, with an MSc in Environmental Engineering and a background in physics, philosophy, and quantitative research. I build models, investigate data, and automate recurring work across renewable energy procurement and portfolio management.",
+  "email": "octave.ga.duclos@gmail.com",
+  "phone": "(909) 480-9870",
+  "linkedin": "https://www.linkedin.com/in/octaveduclos/",
+  "github": "https://github.com/OctaveDuclos",
+  "resumeUrl": null,
+  "projects": [
+    {
+      "id": "ppa-model",
+      "category": "Procurement analytics",
+      "title": "A common framework for VPPA decisions",
+      "summary": "Advancing a firm-wide model for comparing renewable energy opportunities across the U.S. and Canada.",
+      "context": "Renewable energy bids differ in market exposure, contract structure, and environmental impact. Comparing them requires a consistent view of economics and assumptions.",
+      "work": "Own and advance an Excel/VBA model integrating developer bids, wholesale prices, contract terms, and emissions factors. Evaluate project economics across scenarios and maintain version control in GitHub.",
+      "result": "A business-critical analytical foundation for procurement recommendations and market intelligence.",
+      "tags": [
+        "Excel / VBA",
+        "Scenario modeling",
+        "VPPA economics",
+        "GitHub"
+      ]
+    },
+    {
+      "id": "portfolio-monitoring",
+      "category": "Portfolio operations",
+      "title": "From settlements to portfolio insight",
+      "summary": "Turning operating PPA data into forecasts, reconciled reporting, and answers clients can use.",
+      "context": "Operating renewable energy portfolios require recurring oversight of generation, availability, settlements, and financial performance.",
+      "work": "Manage reporting across 13+ operating projects for 3+ clients. Prepare portfolio forecasts using forward prices, settlement structures, generation forecasts, and technology assumptions; audit invoices and availability reports and work with developers and meter agents to investigate discrepancies.",
+      "result": "Produced 70+ portfolio forecasts and audited 200+ invoices and reports, supporting financial reporting and ongoing portfolio oversight.",
+      "tags": [
+        "PPA settlements",
+        "Forecasting",
+        "Reconciliation",
+        "Performance monitoring"
+      ]
+    },
+    {
+      "id": "report-automation",
+      "category": "AI & automation",
+      "title": "Less manual work. More time for analysis.",
+      "summary": "Using AI and workflow automation to accelerate recurring energy reporting.",
+      "context": "Energy reporting often starts with complex invoices and settlement documents that need to be translated into consistent reporting formats.",
+      "work": "Build workflows using AI, Python, and Power Automate to extract invoice information and prepare settlement summaries and performance reports.",
+      "result": "Generated 50+ summaries and reports through automated workflows, streamlining recurring report preparation.",
+      "tags": [
+        "AI workflows",
+        "Python",
+        "Power Automate",
+        "Document processing"
+      ]
+    },
+    {
+      "id": "solar-optimization",
+      "category": "Procurement analytics",
+      "title": "Finding the value of community solar",
+      "summary": "A portfolio model connecting hourly generation, utility rules, and REC strategy.",
+      "context": "The value of a new solar project depends on its interaction with existing contracts, electricity demand, credit banking, and utility program rules.",
+      "work": "Built a model combining client load, 8,760-hour generation profiles, existing renewable contracts, REC markets, and virtual net metering rules. Modeled monthly matching, annual credit banking, nonlinear credit tiers, and alternative procurement scenarios.",
+      "result": "Supported project selection and contracting for a 25-year solar project delivering approximately 28,000 MWh per year, and identified an approximately $2M annual REC arbitrage opportunity over 10 years.",
+      "tags": [
+        "8,760-hour modeling",
+        "Community solar",
+        "RECs",
+        "Portfolio economics"
+      ]
+    },
+    {
+      "id": "decarbonization",
+      "category": "Energy strategy",
+      "title": "A practical path to lower emissions",
+      "summary": "Translating fragmented enterprise data into a renewable energy procurement strategy.",
+      "context": "A decentralized aeronautics company with 100+ global business units needed a Scope 1 and 2 baseline and a pathway to a 50% emissions reduction by 2031.",
+      "work": "Cleaned and reconciled utility and load data and modeled onsite solar, utility green tariffs, retail renewable electricity, and portfolio-level VPPA procurement.",
+      "result": "Determined that a single U.S. VPPA could cover North American Scope 2 emissions and achieve the modeled 2031 target.",
+      "tags": [
+        "GHG accounting",
+        "Green tariffs",
+        "Energy procurement",
+        "Decarbonization"
+      ]
+    },
+    {
+      "id": "ai-enablement",
+      "category": "AI & automation",
+      "title": "Making automation useful across a team",
+      "summary": "Building reusable workflows and helping colleagues put AI into everyday practice.",
+      "context": "Scaling automation takes both useful tools and the confidence to apply them to real work.",
+      "work": "Lead Python/API automation for market, policy, and client intelligence; standardize reusable codebases; deliver AI training and office hours as part of the Coho AI Team. Automate project resourcing forecasts by integrating Salesforce data with existing planning templates.",
+      "result": "Expanded access to practical AI and automation through shared tools, training, and ongoing support. An internal research agent remained in use more than 1.5 years after creation.",
+      "tags": [
+        "APIs",
+        "Python",
+        "AI training",
+        "Salesforce"
+      ]
+    }
+  ],
+  "additional": [
+    {
+      "title": "Neural connectivity analysis · HHMI Janelia",
+      "text": "Analyzed large neural datasets and built weighted connectivity matrices using Python and database queries to help researchers investigate dominant pathways."
+    },
+    {
+      "title": "Atmospheric measurement models · NASA JPL",
+      "text": "Reconstructed and validated experimental models from fragmented spreadsheets and investigated the relationship between humidity and the refractive index of air."
+    },
+    {
+      "title": "Changing extreme rainfall risk · Academic project",
+      "text": "Used Bayesian inference in SciPy to update rainfall probability distributions and visualized changes in extreme storm risk with Matplotlib."
+    }
+  ],
+  "experience": [
+    {
+      "company": "ERM Coho",
+      "role": "Senior Analyst, Climate & Sustainability",
+      "dates": "Sep 2023 – Present",
+      "text": "Renewable energy procurement and portfolio analytics, PPA economics, reporting automation, and AI enablement."
+    },
+    {
+      "company": "Seattle Public Utilities",
+      "role": "Water Resources Intern",
+      "dates": "Jun 2022 – May 2023",
+      "text": "Developed statistical and machine learning forecasts and a Python / Plotly Dash application integrating external and internal APIs."
+    },
+    {
+      "company": "HHMI Janelia Research Campus",
+      "role": "Neuroscience Data Analyst",
+      "dates": "Oct 2018 – Jun 2021",
+      "text": "Quantitative analysis of neural connectivity, database queries, and communication of research findings."
+    },
+    {
+      "company": "NASA Jet Propulsion Laboratory",
+      "role": "Atmospheric Data Analyst",
+      "dates": "May 2017 – May 2018",
+      "text": "Experimental data analysis and reconstruction of atmospheric measurement models."
+    }
+  ],
+  "education": [
+    {
+      "school": "University of Washington",
+      "degree": "MSc, Environmental Engineering",
+      "detail": "2023 · GPA 3.97"
+    },
+    {
+      "school": "Pomona College",
+      "degree": "BA, Physics & Philosophy",
+      "detail": "2018 · Sigma Xi Research Award"
+    }
+  ],
+  "skills": [
+    "Excel / VBA",
+    "Python",
+    "SQL",
+    "APIs",
+    "Git / GitHub",
+    "Plotly / Dash",
+    "PPA / VPPA economics",
+    "Settlement reconciliation",
+    "Generation & availability analysis",
+    "Utility green tariffs",
+    "RECs",
+    "AI workflow automation"
+  ]
+}
