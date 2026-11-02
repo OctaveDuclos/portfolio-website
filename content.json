@@ -6,7 +6,6 @@
   "email": "octave.ga.duclos@gmail.com",
   "phone": "(909) 480-9870",
   "linkedin": "https://www.linkedin.com/in/octaveduclos/",
-  "github": "https://github.com/OctaveDuclos",
   "resumeUrl": null,
   "projects": [
     {
@@ -168,7 +167,7 @@
       "company": "Seattle Public Utilities",
       "role": "Water Resources Intern",
       "dates": "Jun 2022 – May 2023",
-      "text": "Developed statistical and machine learning forecasts and a Python / Plotly Dash application integrating external and internal APIs."
+      "text": "Built statistical and machine learning models for aggregate water demand forecasting with a 1–10-day forecast horizon to inform water management decisions. Developed a Python / Plotly Dash app integrating weather and demand APIs to automate forecasting and support model use."
     },
     {
       "company": "HHMI Janelia Research Campus",
