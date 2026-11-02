@@ -11,7 +11,7 @@ Most changes happen in **content.json**. In GitHub, open the file, click the pen
 - **Projects:** edit or duplicate an object in `projects`. Give every project a unique `id` using lowercase letters and hyphens. The first three appear on Home; all appear on Portfolio. Each project has `category`, `title`, `summary`, `context`, `work`, `result`, and `tags`. Use category `AI & automation` for the AI filter; other categories appear under Energy & analytics.
 - **Additional work:** edit `additional`.
 - **Resume experience and education:** edit `experience`, `education`, and `skills`.
-- **Photo:** upload `assets/portrait.jpg`. The placeholder automatically switches to your image. Use a portrait or square crop. Update the alt text in `assets/site.js` if needed.
+- **Photo:** upload `assets/portrait.png`. The placeholder automatically switches to your image. Use a portrait or square crop. Update the alt text in `assets/site.js` if needed.
 - **Resume PDF:** upload your finalized public resume as `assets/Octave_Duclos_Resume.pdf`, then change `resumeUrl` from `null` to `"./assets/Octave_Duclos_Resume.pdf"`. Until then, the resume page shows a clear placeholder and an editable experience summary.
 - **Colors and typography:** edit the variables at the top of `assets/style.css`.
 - **Personal page:** intentionally not implemented. When ready, add a page and add its navigation link to each HTML file.
